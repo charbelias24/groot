@@ -1,4 +1,4 @@
-# groot
+# GROOT
 GROOT is an irrigation system that aims to improve the life of plants
 
 Our system uses web scraping techniques in order to get the appropriate information about every single plant.
